@@ -1,2 +1,5 @@
 # MSygl2023
 DH Master Thesis: on the application of a readiness assessment index to the measurement of digital skills in the museum sector
+
+
+The present thesis seeks to answer the following question: how can we measure the digital skills of museums’ staff and identify possible gaps in need of a remedy? On what basis can digital skills of museum staff be analysed, quantified, evaluated and visualized in a manner that is accessible and objectively ascertainable by museums? To answer this question, the present thesis proposes a conceptual framework for the measurement of a museum’s digital skills status, through the application of a readiness assessment model specifically for the purposes of measuring the digital skills maturity of museum organisations, building on the conceptual framework developed in the thesis. It then operationalizes the DSRI through a specific questionnaire (set out in Appendix), with a series of targeted questions aimed at ascertaining the status quo of a museum in the five dimensions identified in the theoretical framework of the thesis.
